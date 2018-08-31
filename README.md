@@ -1,1 +1,1 @@
-# SimpleJava Program for Book Purchase Calculation and Calculation
+# SimpleJava Program for Book Purchase and Calculation
